@@ -1,0 +1,52 @@
+.cabecalho{
+    background-color: darkturquoise;
+    width: 100%;
+    border: black 2px solid;
+    padding: 20px;
+}
+.nav-container{
+    border: 2px solid green;
+    width: 80%;
+    margin: auto;
+}
+.nav-list{
+    text-align: center;
+    list-style: none;
+}
+.nav-item {
+    display: inline;
+    margin-right: 5%;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.principal{
+    background-color: cornflowerblue;
+    border-bottom: 5px solid black;
+    padding: 20px;
+}
+#description{
+    text-align: center;
+}
+.photo-frame{
+    width: 300px;
+    margin:100px auto;
+}
+.photo{
+    width:300px;
+    border-radius: 25%;
+}
+.hoby-list{
+    float: left;
+}
+#contact{
+    background-color: darkturquoise;
+    border:5px solid black;
+    padding:10px;
+    text-align: center;
+}
+.contact-item{
+    display: inline;
+    margin-right:10px ;
+}
